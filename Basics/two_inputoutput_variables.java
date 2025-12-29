@@ -44,7 +44,7 @@ public class two_inputoutput_variables {
          */
 
         //example
-
+ 
         int x = 10;
         int y = 20;
         int sum = x+y;
